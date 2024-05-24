@@ -1,12 +1,13 @@
-# Hi there 👋
+# Hey, I'm Martin Stepanek 🏳️‍🌈
 
-### Allow me to give you a brief introduction about myself.
-- 👨‍🏫 I'm a skilled Technical SEO Expert.
-- 👨‍💻 A seasoned Website Expert and Architect with a passion for WordPress.
+I'm a Slovakia-based technical SEO consultant with over a decade of experience in web development and infrastructure.
 
-### Moreover, I have in-depth experience in:
-- 🥇 Web development for over 14 years.
-- 🥈 Website architecture for over 6 years.
-- 🥉 Leadership in a web development team for over 2 years.
+I'm ready to help you with your website's technical SEO and SEO overall.
 
-**[Visit my professional profile on LinkedIn](https://www.linkedin.com/in/iamstepanek/)**
+Currently, I'm an in-house technical SEO manager at the SaaS company Quality Unit, but I also freelance consult and audit websites.
+
+Also, I enjoy sharing my {technical} SEO knowledge and experience with others.
+
+**[Follow me on X](https://x.com/stepanekio)**
+
+**[Follow me on LinkedIn](https://www.linkedin.com/in/stepanekio/)**
