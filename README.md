@@ -1,13 +1,19 @@
 # Hey, I'm Martin Stepanek 🏳️‍🌈
 
-I'm a Slovakia-based technical SEO consultant with over a decade of experience in web development and infrastructure.
+Hey! I'm Martin Stepanek, founder of [TechSEO Vitals](https://www.techseovitals.com/) and an experienced technical SEO consultant.
 
-I'm ready to help you with your website's technical SEO and SEO overall.
+I've spent the last decade as a web developer specializing in website architecture and performance optimization. In 2021, I fully transitioned into technical SEO.
 
-Currently, I'm an in-house technical SEO manager at the SaaS company Quality Unit, but I also freelance consult and audit websites.
+Today, I help businesses optimize their websites through data-driven technical SEO strategies.
 
-Also, I enjoy sharing my {technical} SEO knowledge and experience with others.
+I write [a newsletter focused on technical SEO](https://www.techseovitals.com/newsletter/ ) for industry professionals and website owners.
 
-**[Follow me on X](https://x.com/stepanekio)**
+You can find my insights on the [TechSEO Vitals Blog](https://www.techseovitals.com/blog/) and social media platforms. 
 
-**[Follow me on LinkedIn](https://www.linkedin.com/in/stepanekio/)**
+Feel free to follow!
+
+Thanks for connecting!
+
+**[Follow me on X](https://x.com/techseovitals)**
+
+**[Follow me on LinkedIn](https://www.linkedin.com/in/techseovitals/)**
