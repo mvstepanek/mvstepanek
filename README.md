@@ -14,6 +14,4 @@ Feel free to follow!
 
 Thanks for connecting!
 
-**[Follow me on X](https://x.com/techseovitals)**
-
 **[Follow me on LinkedIn](https://www.linkedin.com/in/techseovitals/)**
