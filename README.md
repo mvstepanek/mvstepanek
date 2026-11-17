@@ -1,12 +1,14 @@
 # Hey, I'm Martin Stepanek
 
-**Developer-led enterprise technical SEO – one consultant, no agency.**
+**Developer-led Enterprise Technical SEO Consultant. Technical SEO your developers actually ship.**
 
-Big sites break quietly. A named GPTBot rule voids your wildcard directives. Bot Fight Mode returns 403 to Googlebot. Half your hreflang pairs point at redirects. None of it reaches a dashboard.
+The bigger the site, the longer a problem stays hidden. A named GPTBot group voids your wildcard directives. Bot Fight Mode answers Googlebot with a 403. Half your hreflang pairs point at redirects. None of it throws an error, and none of it reaches a dashboard.
 
-I find it, tell you which of the dozens of findings actually matter, and take the fix to your developers myself.
+I find it, tell you which four findings to fix first, and take the fix to your developers myself. Then I re-test it in production.
 
-10+ years building the web – frontend, backend and architecture for high-traffic sites – before I started fixing it. So what you get back isn't a 200-page audit nobody reads. It's prioritised tickets your engineers can pick up without translating them first.
+15+ years building websites, 5+ of them in technical SEO, and I still write production code. So what you get back is a prioritized backlog of tickets your engineers can pick up without translating them first.
+
+One consultant, no agency.
 
 ---
 
@@ -14,50 +16,51 @@ I find it, tell you which of the dozens of findings actually matter, and take th
 
 | Service | What it is |
 |---|---|
-| **Technical SEO Monitoring** | Opens with the full audit, then stays on: robots.txt, sitemaps and uptime checked every few minutes; indexation and Core Web Vitals as the data lands. Monthly call, shared Slack channel for your engineers. |
-| **Technical SEO Audit** | A full crawl, render and log-file pass. Dozens of findings, each naming the exact place it lives and the fix – ordered by what it earns back. |
+| **Technical SEO Monitoring** | Opens with the full audit, then stays on: robots.txt, sitemaps and uptime checked every few minutes, indexation and Core Web Vitals as the data lands. A monthly call and a shared Slack channel for your engineers. |
+| **Technical SEO Audit** | A full crawl, render and log-file pass. 50+ findings, each naming the exact place it lives and the fix, ordered by what it earns back. |
 | **Website Migration Planning** | Replatform without losing traffic: redirect mapping, parity testing and a launch checklist owned end to end. |
 | **Technical SEO Training** | A day with your SEO specialists and your developers in one room, worked through on your own stack. |
 
-Every engagement includes a prioritised ticket backlog, a walkthrough with your developers, direct access to me rather than an account manager, and post-launch verification.
+Every audit, migration and monitoring engagement includes a prioritized ticket backlog, a walkthrough with your developers, direct access to me and post-launch verification.
 
-[**Book a call →**](https://www.techseovitals.com/contact/) Thirty minutes, no cost. I open your site live and name two or three real issues. You keep them whether or not we work together.
+[**Book a call →**](https://www.techseovitals.com/contact/) 30 minutes, no cost. I open your site live and name two or three real issues. You keep them whether or not we work together.
 
 ---
 
 ## The numbers
 
-My own audits, not an industry study.
+From my own audits, not an industry study.
 
-- **98%** contain at least one critical finding – not because the teams are careless, but because nobody was looking at the layer it lives in.
-- **50+** findings per audit, ranked, each with an effort estimate and the exact place it lives.
-- **3M+** URLs and **150+** languages on the largest site I work on, where one bad directive quietly removes a whole market from the index.
+- **98%** contain at least one critical finding.
+- **50+** findings per audit, prioritized by what each one earns back, with an effort estimate and the exact place it lives.
+- **3M+** URLs and **150+** languages on the largest site I work on, where one bad directive can remove a whole market from the index.
+
+Finding a hundred issues is easy. Telling you which four to do first is not.
 
 ---
 
 ## Client work
 
-A small number of long engagements: [LiveAgent, Post Affiliate Pro, Expertise AI, Ecommerce Bridge, TOUCHIT](https://www.techseovitals.com/customers/). The largest is under NDA and can't be shown at all.
+A small number of long engagements, among them [Expertise AI, LiveAgent, Post Affiliate Pro, TOUCHIT and Ecommerce Bridge](https://www.techseovitals.com/customers/).
 
-On [TOUCHIT](https://www.techseovitals.com/customers/touchit/) – infrastructure and CMS migration for a national tech news portal – Core Web Vitals pass rate went 43% → 93%, bounce rate dropped 67%, and page views per session rose 77%.
+On [TOUCHIT](https://www.techseovitals.com/customers/touchit/), a ground-up rebuild of one of the largest technology news portals in Slovakia, the Core Web Vitals pass rate went from 43% to 93%, bounce rate dropped 67% and page views per session rose 77%.
 
 ---
 
 ## What I built
 
-**[VitalSentinel](https://www.vitalsentinel.com)** – my own monitoring platform, built after one too many client emergencies that could've been caught earlier. Core Web Vitals, uptime, robots.txt, indexing and traffic in one place. Rendering, caching, build pipelines and infrastructure are current work, not a line on a CV.
+**[VitalSentinel](https://www.vitalsentinel.com)** is the tool I've developed over the years to catch the SEO and performance breaks I kept finding too late on client sites. Page changes, robots.txt, indexing, Core Web Vitals and the Google and AI crawlers in server logs, in one alert stream. Rendering, caching and edge config are current work for me, not a line on a CV.
 
 ---
 
-## Free stuff
+## Check my thinking first
 
-- [Newsletter](https://www.techseovitals.com/newsletter/) – every two weeks: one technical SEO problem taken apart in full, a clear position on what to do about it, and three things worth reading from the last fortnight
-- [Blog](https://www.techseovitals.com/blog/) – short posts out of client work
+- [Newsletter](https://www.techseovitals.com/newsletter/) – every two weeks: one specific technical SEO problem taken apart, a position on what to do about it, and the three things worth knowing from the last two weeks
+- [Blog](https://www.techseovitals.com/blog/) – every episode, also in Czech and Slovak
+- [Talks](https://www.techseovitals.com/technical-seo-consultant/) – recorded conference talks with real data
 
 ---
 
 ## Where to find me
 
 [techseovitals.com](https://www.techseovitals.com) · [vitalsentinel.com](https://www.vitalsentinel.com) · [LinkedIn](https://www.linkedin.com/in/techseovitals/) · [X](https://x.com/techseovitals) · [Bluesky](https://bsky.app/profile/techseovitals.com) · [YouTube](https://www.youtube.com/@techseovitals)
-
-Thanks for connecting!
